@@ -14,14 +14,24 @@
 
 ### **About Labsoy**
 
-I spend my time at the intersection of enterprise software engineering, distributed systems, and digital creation—building robust architectures that scale.
-Here on GitHub, Labsoy serves as the central organization for high-performance backend systems, AI-integrated workflows, and open-source creator tools.
+Labsoy | Engineering the Future of Software
 
-### **What Drives Our Work**
+I'm Serhat Soysal, founder of Labsoy — a technology-driven organization focused on engineering high-performance backend systems, building intelligent AI-powered solutions, and developing innovative open-source tools.
 
-* **Engineering Excellence:** Building fault-tolerant, cloud-native microservices with Java, Spring Boot, and event-driven pipelines (Kafka).
-* **AI & Agent Systems:** Integrating advanced LLMs, multimodal data flows, and Model Context Protocol (MCP) into enterprise backends.
-* **Community & Education:** Sharing real-world software development insights, senior-level patterns, and live coding sessions through LabsoyCode.
+At Labsoy, we operate at the intersection of enterprise software engineering, distributed systems, artificial intelligence, and digital creation. Our mission is to design scalable architectures, build reliable software, and turn complex technological challenges into practical solutions.
+
+What We Do
+Enterprise Software Engineering: Designing scalable, fault-tolerant, cloud-native architectures using Java, Spring Boot, microservices, and event-driven technologies such as Apache Kafka.
+AI & Intelligent Agent Systems: Building AI-integrated applications, LLM-powered workflows, multimodal systems, and Model Context Protocol (MCP) integrations.
+Distributed Systems & Backend Architecture: Developing high-performance services, resilient infrastructures, and production-ready systems designed for scalability and reliability.
+Open Source & Developer Community: Creating developer tools, sharing engineering knowledge, and contributing to the software community through LabsoyCode, including practical tutorials, real-world development insights, and live coding sessions.
+Our Vision
+
+We believe great software is built through engineering excellence, continuous innovation, and sharing knowledge.
+
+Build scalable. Think intelligently. Create without limits.
+
+Welcome to Labsoy.
 
 ---
 
